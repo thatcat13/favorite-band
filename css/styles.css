@@ -1,26 +1,33 @@
-.sidebar {
-  float: left;
-  width: 30%;
-  background-color: grey;
-  font-size: 25px;
-  border: solid;
-  border-width: medium;
-  margin-right: 25px;
-
+div {
+  border:2px solid red;
 }
 
 body {
-  margin: auto;
   padding: 20px;
   padding-right: 10px;
+  background-color: #C0B9B7;
 }
 
-.photo {
+.sidebar {
+  float: left;
+  width: 10%;
+  background-color: #DDC9F7;
+  font-size: 25px;
+  border: solid;
+  border-width: medium;
+  margin: 25px;
+  margin-left: auto;
+  padding: 30px;
+}
+.master {
+  margin-top: 150px;
+}
+
+
+img {
   float: right;
-  padding-left: 40px;
-  padding-top: 40px;
-  width: 50%;
-  margin-right: 120px;
+  border: solid;
+  border-width: medium;
 }
 
 
