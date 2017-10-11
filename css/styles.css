@@ -1,0 +1,29 @@
+.sidebar {
+  float: left;
+  width: 30%;
+  background-color: grey;
+  font-size: 25px;
+  border: solid;
+  border-width: medium;
+  margin-right: 25px;
+
+}
+
+body {
+  margin: auto;
+  padding: 20px;
+}
+
+.photo {
+  float: right;
+  padding-left: 40px;
+  padding-top: 40px;
+  width: 50%;
+}
+
+
+.column {
+  float: left;
+  width: 33%;
+
+}
