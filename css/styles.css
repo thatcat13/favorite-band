@@ -1,6 +1,4 @@
-div {
-  border:2px solid red;
-}
+
 
 body {
   padding: 20px;
@@ -8,16 +6,21 @@ body {
   background-color: #C0B9B7;
 }
 
+h1 {
+  text-align: center;
+}
+
 .sidebar {
   float: left;
   width: 10%;
-  background-color: #DDC9F7;
+  background-color: #a3a3c2;
   font-size: 25px;
   border: solid;
   border-width: medium;
   margin: 25px;
   margin-left: auto;
   padding: 30px;
+
 }
 .master {
   margin-top: 150px;
